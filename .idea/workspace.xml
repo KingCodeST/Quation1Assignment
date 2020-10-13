@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05332861-b3c3-41ae-9624-9a680d2ec71e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ac/za/cputAssignment/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ac/za/cputAssignment/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ac/za/cputAssignment/ClassRoom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ac/za/cputAssignment/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ac/za/cputAssignment/ClassRoomTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ac/za/cputAssignment/ClassRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ac/za/cputAssignment/ClassRoom.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ipb7lxxkR1FKLjHV2osfxA48jz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ClassRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ac.za.cputAssignment.ClassRoom" />
+      <module name="groupAdpAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ac.za.cputAssignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClassRoom" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05332861-b3c3-41ae-9624-9a680d2ec71e" name="Default Changelist" comment="" />
+      <created>1602607315837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602607315837</updated>
+      <workItem from="1602607316925" duration="690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="142" y="237" width="1198" height="377" key="DiffContextDialog" timestamp="1602607720039">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="142" y="237" width="1198" height="377" key="DiffContextDialog/1440.23.800.577/0.23.1440.825@0.23.1440.825" timestamp="1602607720039" />
+    <state width="1356" height="132" key="GridCell.Tab.0.bottom" timestamp="1602607658296">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1356" height="132" key="GridCell.Tab.0.bottom/1440.23.800.577/0.23.1440.825@0.23.1440.825" timestamp="1602607658296" />
+    <state width="1356" height="132" key="GridCell.Tab.0.center" timestamp="1602607658294">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1356" height="132" key="GridCell.Tab.0.center/1440.23.800.577/0.23.1440.825@0.23.1440.825" timestamp="1602607658294" />
+    <state width="1356" height="132" key="GridCell.Tab.0.left" timestamp="1602607658292">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1356" height="132" key="GridCell.Tab.0.left/1440.23.800.577/0.23.1440.825@0.23.1440.825" timestamp="1602607658292" />
+    <state width="1356" height="132" key="GridCell.Tab.0.right" timestamp="1602607658295">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1356" height="132" key="GridCell.Tab.0.right/1440.23.800.577/0.23.1440.825@0.23.1440.825" timestamp="1602607658295" />
+    <state x="341" y="165" key="Vcs.Push.Dialog.v2" timestamp="1602607737734">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="341" y="165" key="Vcs.Push.Dialog.v2/1440.23.800.577/0.23.1440.825@0.23.1440.825" timestamp="1602607737734" />
+    <state x="554" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602607601494">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="554" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1440.23.800.577/0.23.1440.825@0.23.1440.825" timestamp="1602607601494" />
+  </component>
+</project>
